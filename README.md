@@ -37,6 +37,9 @@ The final output of tHE project will be a monograph on Literacy.**
 **6B. Mariners_Letters_Workshop_Introductory_Slides_Day_Two_15072022_REVISEDTWO_04102022.pdf**
 - Early Modern Mariners Letters international workshop: ZOOM workshop: Second day introductory slides: Colin Greenstreet: ***July 15th 2022***
 
+**7. Mariners_Letters_In_ADM_106_07092022_Ver.1.1.pdf**
+- Mariners Letters in ADM 106, 1673-1699: Documentation: Colin Greenstreet: ***September 7th 2022***
+
 ----
 
 ### **2024**
