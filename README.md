@@ -5,7 +5,16 @@ The project started in 2015 and focuses on characterising the literacy of C17th 
 Various interim outputs have been produced, which are documented in this respository
 The final output of tHE project will be a monograph on Literacy.**
 
+----
+
 ## DOCUMENTS IN THIS REPOSITORY
+
+### **2018**
+
+**1. AI_&_Historical_Literacy_SOLM-2018_Slides_FINAL_04092018.pdf**
+- SOLM-2018 data set: Archives & AI: Presentation: The National Archives, Kew: Colin Greenstreet: ***September 4th 2018***
+
+  ----
 
 ### **2019**
 
