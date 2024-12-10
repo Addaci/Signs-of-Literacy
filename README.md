@@ -16,7 +16,7 @@ The final output of tHE project will be a monograph on Literacy.**
 
 ### **2022**
 
-**1.Mariner_Literacy_Presentation_Jan10_2022_FINAL-REVISED-POST-TALK.pdf**
+**1. Mariner_Literacy_Presentation_Jan10_2022_FINAL-REVISED-POST-TALK.pdf**
 - Early Modern Mariner Literacy: The literacy intensity of work: Colin Greenstreet: ZOOM seminar: ***January 10th 2022***
 
 **2. Machine_Transcription_Of_C17th_Secretary_Hand_Ver.2.0_13032022.pdf**
