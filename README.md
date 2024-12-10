@@ -12,7 +12,7 @@ The final output of tHE project will be a monograph on Literacy.**
 **1. Machine_Transcription_HCA_Tech_Presentation_Ver.1.2_30062022.pdf**
 - Marine Lives Machine transcribed HCA deposition edition 1574-1688: Progress report: Thursday, June 30th 2022
 
-**2. XXXX **
+**2. Mariners_Letters_Workshop_Introductory_Slides_Day_Two_15072022_REVISEDTWO_04102022.pdf **
 - Early Modern Mariners Letters international workshop: Second day introductory slides: Colin Greenstreet: July 15th 2022
 
 
