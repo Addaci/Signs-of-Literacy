@@ -1,7 +1,7 @@
 # **SIGNS OF LITERACY PROJECT**
 
 **This repository contains key documents from the ongoing Signs of Literacy project, which is being conducted by Colin Greenstreet
-The project started in 2015 and focuses on characterising the literacy of C17th English mariners and shoretrade occupations
+The project started in 2018 and focuses on characterising the literacy of C17th English mariners and shoretrade occupations
 Various interim outputs have been produced, which are documented in this respository
 The final output of tHE project will be a monograph on Literacy.**
 
