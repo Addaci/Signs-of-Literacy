@@ -3,7 +3,7 @@
 **This repository contains key documents from the ongoing Signs of Literacy project, which is being conducted by Colin Greenstreet
 The project started in 2018 and focuses on characterising the literacy of C17th English mariners and shoretrade occupations
 Various interim outputs have been produced, which are llisted below. The final output of the project will be an academic book 
-titled "Silver Ships", which addresses international ctrade based communication in the C17th, with a focus on mariners.**
+titled "Paper Ships", which addresses international trade based communication in the C17th, with a focus on mariners.**
 
 ----
 
